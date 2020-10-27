@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hzh.mapper.PlannerMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hzh.pojo.Planner">
+        <id column="nid" property="nid" />
+        <result column="nname" property="nname" />
+        <result column="nphone" property="nphone" />
+        <result column="addtime" property="addtime" />
+        <result column="status" property="status" />
+        <result column="cid" property="cid" />
+        <result column="ordernumber" property="ordernumber" />
+    </resultMap>
+
+</mapper>

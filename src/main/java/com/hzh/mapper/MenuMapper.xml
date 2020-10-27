@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hzh.mapper.MenuMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hzh.pojo.Menu">
+        <id column="mid" property="mid" />
+        <result column="mname" property="mname" />
+        <result column="pid" property="pid" />
+        <result column="isparent" property="isparent" />
+        <result column="status" property="status" />
+        <result column="url" property="url" />
+        <result column="mdesc" property="mdesc" />
+    </resultMap>
+
+    <select id="menuTree" resultType="com.hzh.pojo.Menu">
+        select * from t_menu where mid in (select mid from t_role_menu where rid=(select rid from t_admin_role where aid=#{aid}))
+    </select>
+
+</mapper>

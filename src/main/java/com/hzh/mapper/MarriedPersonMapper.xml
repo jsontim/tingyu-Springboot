@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hzh.mapper.MarriedPersonMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hzh.pojo.MarriedPerson">
+        <id column="pid" property="pid" />
+        <result column="ppwd" property="ppwd" />
+        <result column="pname" property="pname" />
+        <result column="phone" property="phone" />
+        <result column="pmail" property="pmail" />
+        <result column="marrydate" property="marrydate" />
+        <result column="regdate" property="regdate" />
+        <result column="status" property="status" />
+    </resultMap>
+
+</mapper>
