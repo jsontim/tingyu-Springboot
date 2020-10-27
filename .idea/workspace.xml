@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc0f6d53-16c5-4ac8-8682-f8dbee936797" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jEQFI7aoUJ03gRLThV90gawiY8" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.hzh.utils" />
+      <recent name="com.hzh.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea-workspace\tingyu-springboot\src\main\webapp\WEB-INF" />
+      <recent name="E:\idea-workspace\tingyu-springboot\src\main\webapp\WEB-INF\view" />
+      <recent name="E:\idea-workspace\tingyu-springboot\src\main\webapp" />
+      <recent name="E:\idea-workspace\tingyu-springboot\src\main\java\com\hzh\service" />
+      <recent name="E:\idea-workspace\tingyu-springboot\src\main\java\com\hzh\controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.TingyuSpringbootApplication">
+    <configuration name="TestMapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tingyu-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hzh" />
+      <option name="MAIN_CLASS_NAME" value="com.hzh.TestMapper" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMapper.testAdmin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tingyu-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hzh" />
+      <option name="MAIN_CLASS_NAME" value="com.hzh.TestMapper" />
+      <option name="METHOD_NAME" value="testAdmin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMapper.testMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tingyu-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hzh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hzh" />
+      <option name="MAIN_CLASS_NAME" value="com.hzh.TestMapper" />
+      <option name="METHOD_NAME" value="testMenu" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TingyuSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="tingyu-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hzh.TingyuSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestMapper.testMenu" />
+        <item itemvalue="JUnit.TestMapper.testAdmin" />
+        <item itemvalue="JUnit.TestMapper" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc0f6d53-16c5-4ac8-8682-f8dbee936797" name="Default Changelist" comment="" />
+      <created>1603366665688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603366665688</updated>
+      <workItem from="1603366682562" duration="15700000" />
+      <workItem from="1603415424656" duration="13945000" />
+      <workItem from="1603471962425" duration="12000" />
+      <workItem from="1603505320532" duration="2005000" />
+      <workItem from="1603677725391" duration="3018000" />
+      <workItem from="1603724686900" duration="34000" />
+      <workItem from="1603804112972" duration="489000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="477" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603369345746">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603369345746" />
+    <state x="153" y="170" key="FileChooserDialogImpl" timestamp="1603688199943">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603688199943" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state width="1493" height="206" key="GridCell.Tab.1.center" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state width="1493" height="206" key="GridCell.Tab.1.left" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state width="1493" height="206" key="GridCell.Tab.1.right" timestamp="1603458706521">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1603458706521" />
+    <state x="304" y="86" key="Maven.ArtifactSearchDialog" timestamp="1603420759140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="304" y="86" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1603420759140" />
+    <state x="287" y="147" key="new project wizard" timestamp="1603450938175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="287" y="147" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603450938175" />
+  </component>
+</project>
